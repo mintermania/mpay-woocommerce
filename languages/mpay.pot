@@ -1,0 +1,182 @@
+# Copyright (C) 2019 MPay
+# This file is distributed under the same license as the MPay Payment Gateway For WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MPay Payment Gateway For WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mpay-payment-gateway-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-08-24T21:48:36+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: mpay\n"
+
+#. Plugin Name of the plugin
+msgid "MPay Payment Gateway For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://mpay.ms/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extends WooCommerce to Process Payments with MPay gateway."
+msgstr ""
+
+#. Author of the plugin
+#: woocommerce-mpay.php:254
+msgid "MPay"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mpay.ms"
+msgstr ""
+
+#: includes/settings.php:24
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/settings.php:26
+msgid "Enable MPay Payment Module."
+msgstr ""
+
+#: includes/settings.php:30
+msgid "MPay API token"
+msgstr ""
+
+#: includes/settings.php:32
+msgid "Create new API token in your MPay control panel"
+msgstr ""
+
+#: includes/settings.php:35
+msgid "Webhook URL"
+msgstr ""
+
+#: includes/settings.php:37
+msgid "Setup webhook URL in MPay control panel"
+msgstr ""
+
+#: includes/settings.php:44
+msgid "Plugin logging for debug"
+msgstr ""
+
+#: includes/settings.php:45
+msgid "%s"
+msgstr ""
+
+#: includes/settings.php:48
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/settings.php:50
+msgid "Advanced options of Checkout page"
+msgstr ""
+
+#: includes/settings.php:53
+msgid "Title:"
+msgstr ""
+
+#: includes/settings.php:55
+#: woocommerce-mpay.php:193
+#: woocommerce-mpay.php:293
+msgid "MPay Checkout"
+msgstr ""
+
+#: includes/settings.php:56
+msgid "Title which the user sees during checkout"
+msgstr ""
+
+#: includes/settings.php:59
+msgid "Description:"
+msgstr ""
+
+#: includes/settings.php:61
+msgid "Pay securely by any Minter cryptocurrency through MPay Secure Servers."
+msgstr ""
+
+#: includes/settings.php:63
+msgid "The description which the user sees during checkout"
+msgstr ""
+
+#: includes/settings.php:66
+msgid "Button"
+msgstr ""
+
+#: includes/settings.php:68
+msgid "Pay Now"
+msgstr ""
+
+#: includes/settings.php:69
+msgid "The button text which the user sees during checkout"
+msgstr ""
+
+#: includes/settings.php:107
+msgid "Success Message"
+msgstr ""
+
+#: includes/settings.php:109
+msgid "Message to be displayed on successful transaction."
+msgstr ""
+
+#: includes/settings.php:110
+msgid "Your order has been processed successfully."
+msgstr ""
+
+#: includes/settings.php:114
+msgid "Failed Message"
+msgstr ""
+
+#: includes/settings.php:116
+msgid "Message to be displayed on failed transaction."
+msgstr ""
+
+#: includes/settings.php:117
+msgid "Your order has been declined."
+msgstr ""
+
+#: woocommerce-mpay.php:194
+msgid "MPay Checkout is a payment gateway plugin that allows you to take any Minter cryptocurrency via mpay.ms"
+msgstr ""
+
+#: woocommerce-mpay.php:295
+msgid "Getting started"
+msgstr ""
+
+#: woocommerce-mpay.php:298
+msgid "mpay.ms is one of the most popular payment processors for Minter, MPay Checkout extension provides the most integrated checkout experience possible with WooCommerce to accept any Minter currency."
+msgstr ""
+
+#: woocommerce-mpay.php:301
+msgid "Register in MPay"
+msgstr ""
+
+#: woocommerce-mpay.php:302
+msgid "Learn more"
+msgstr ""
+
+#: woocommerce-mpay.php:305
+msgid "MPay Support"
+msgstr ""
+
+#: woocommerce-mpay.php:307
+msgid "Our telegram channel and chat (en, ru)"
+msgstr ""
+
+#: woocommerce-mpay.php:308
+msgid "Version: "
+msgstr ""
+
+#: woocommerce-mpay.php:407
+msgid "Incorect some parameters"
+msgstr ""
+
+#: woocommerce-mpay.php:424
+msgid "MPay payment failed. Payment declined. Please Check your Admin settings"
+msgstr ""
+
+#: woocommerce-mpay.php:477
+msgid "Order"
+msgstr ""

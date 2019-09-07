@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-24T21:48:36+03:00\n"
+"PO-Revision-Date: 2019-08-24 19:03+0000\n"
+"Last-Translator: admin <mark.markov.03@gmail.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Plugin Name of the plugin
+msgid "MPay Payment Gateway For WooCommerce"
+msgstr "MPay Платіжний Шлюз Для WooCommerce"
+
+#. Plugin URI of the plugin
+msgid "https://mpay.ms/"
+msgstr "https://mpay.ms/"
+
+#. Description of the plugin
+msgid "Extends WooCommerce to Process Payments with MPay gateway."
+msgstr "Розширює WooCommerce, щоб обробляти платежі з MPay."
+
+#. Author of the plugin
+#: woocommerce-mpay.php:254
+msgid "MPay"
+msgstr "MPay"
+
+#. Author URI of the plugin
+msgid "https://mpay.ms"
+msgstr "https://mpay.ms"
+
+#: includes/settings.php:24
+msgid "Enable/Disable"
+msgstr "Увіскнути/Вимкнути"
+
+#: includes/settings.php:26
+msgid "Enable MPay Payment Module."
+msgstr "Включити MPay Модуль Оплати."
+
+#: includes/settings.php:30
+msgid "MPay API token"
+msgstr "MPay API токен"
+
+#: includes/settings.php:32
+msgid "Create new API token in your MPay control panel"
+msgstr "Створити новий API токен в панелі управління MPay"
+
+#: includes/settings.php:35
+msgid "Webhook URL"
+msgstr "Веб-хук URL"
+
+#: includes/settings.php:37
+msgid "Setup webhook URL in MPay control panel"
+msgstr "Налаштування веб-хук URL на панелі управління MPay"
+
+#: includes/settings.php:44
+msgid "Plugin logging for debug"
+msgstr "ведення журналу плагіна для налагодження"
+
+#: includes/settings.php:45
+msgid "%s"
+msgstr "%s"
+
+#: includes/settings.php:48
+msgid "Checkout Page"
+msgstr "Сторінка Оформлення Замовлення"
+
+#: includes/settings.php:50
+msgid "Advanced options of Checkout page"
+msgstr "Додаткові параметри на сторінці оформлення замовлення"
+
+#: includes/settings.php:53
+msgid "Title:"
+msgstr "Заголовок"
+
+#: includes/settings.php:55 woocommerce-mpay.php:193 woocommerce-mpay.php:293
+msgid "MPay Checkout"
+msgstr "Оформлення заказу через MPay"
+
+#: includes/settings.php:56
+msgid "Title which the user sees during checkout"
+msgstr "Заголовок сторінки, який бачить користувач під час оплати"
+
+#: includes/settings.php:59
+msgid "Description:"
+msgstr "Опис:"
+
+#: includes/settings.php:61
+msgid "Pay securely by any Minter cryptocurrency through MPay Secure Servers."
+msgstr ""
+"Оплатіть надійно будь-якою Мінтер криптовалютою через захищені сервери MPay."
+
+#: includes/settings.php:63
+msgid "The description which the user sees during checkout"
+msgstr "Опис, яке бачить користувач під час оплати"
+
+#: includes/settings.php:66
+msgid "Button"
+msgstr "Кнопка"
+
+#: includes/settings.php:68
+msgid "Pay Now"
+msgstr "Оплатити Зараз"
+
+#: includes/settings.php:69
+msgid "The button text which the user sees during checkout"
+msgstr "Текст кнопка, який бачить користувач під час оплати"
+
+#: includes/settings.php:107
+msgid "Success Message"
+msgstr "Повідомлення"
+
+#: includes/settings.php:109
+msgid "Message to be displayed on successful transaction."
+msgstr "Повідомлення, яке буде відображатися на успішну операцію."
+
+#: includes/settings.php:110
+msgid "Your order has been processed successfully."
+msgstr "Ваше замовлення було успішно оброблено."
+
+#: includes/settings.php:114
+msgid "Failed Message"
+msgstr "Помилка"
+
+#: includes/settings.php:116
+msgid "Message to be displayed on failed transaction."
+msgstr "Повідомлення, яке буде відображатися на невдалій угоді."
+
+#: includes/settings.php:117
+msgid "Your order has been declined."
+msgstr "Ваш заказ був відхилений."
+
+#: woocommerce-mpay.php:194
+msgid ""
+"MPay Checkout is a payment gateway plugin that allows you to take any Minter "
+"cryptocurrency via mpay.ms"
+msgstr ""
+"MPay - це платіжний шлюз, який дозволяє приймати будь-які Мінтер "
+"криптовалюти через mpay.ms"
+
+#: woocommerce-mpay.php:295
+msgid "Getting started"
+msgstr "Початок роботи"
+
+#: woocommerce-mpay.php:298
+msgid ""
+"mpay.ms is one of the most popular payment processors for Minter, MPay "
+"Checkout extension provides the most integrated checkout experience possible "
+"with WooCommerce to accept any Minter currency."
+msgstr ""
+"mpay.ms - одна з найбільш популярних платіжних систем для Мінтер, розширення "
+"MPay забезпечує найбільш інтегровані можливості оформлення замовлення "
+"WooCommerce, щоб прийняти будь-яку валюту Мінтер."
+
+#: woocommerce-mpay.php:301
+msgid "Register in MPay"
+msgstr "Зареєструйтесь у MPay"
+
+#: woocommerce-mpay.php:302
+msgid "Learn more"
+msgstr "Дізнатися більше"
+
+#: woocommerce-mpay.php:305
+msgid "MPay Support"
+msgstr "MPay Підтримка"
+
+#: woocommerce-mpay.php:307
+msgid "Our telegram channel and chat (en, ru)"
+msgstr "Наш канал в Telegram і чат ( ru, en)"
+
+#: woocommerce-mpay.php:308
+msgid "Version: "
+msgstr "Версія: "
+
+#: woocommerce-mpay.php:407
+msgid "Incorect some parameters"
+msgstr "Некоректне деякі параметри"
+
+#: woocommerce-mpay.php:424
+msgid "MPay payment failed. Payment declined. Please Check your Admin settings"
+msgstr "Оплата MPay не вдалося. Будь ласка, перевірте налаштування"
+
+#: woocommerce-mpay.php:477
+msgid "Order"
+msgstr "Замовлення"
